@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Chat",
+  "description": "A futuristic chat application infused with powerful AI features, designed to transcend traditional messaging. Experience smart replies, magic message composition, AI-driven summaries, and a dedicated AI assistant, all wrapped in a sleek, modern interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
